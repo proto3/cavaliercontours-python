@@ -1,0 +1,3 @@
+[submodule "libcpp/CavalierContours"]
+	path = libcpp/CavalierContours
+	url = git@github.com:jbuckmccready/CavalierContours.git
